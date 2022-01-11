@@ -19,7 +19,6 @@ export default class Navbar extends Component {
     return (
       <nav style={styles.navbar}>
         <Logo />
-
         <Carro />
       </nav>
     );
